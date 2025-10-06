@@ -1,0 +1,11 @@
+variable "project" {}
+variable "ami_id" {}
+variable "instance_type" {}
+variable "subnet_id" {}
+variable "key_name" {}
+variable "app_port" {}
+variable "alb_target_group_arn" {}
+variable "iam_instance_profile" {}
+variable "app_repo" {}
+variable "alb_sg_id" {}
+variable "vpc_id" {}
